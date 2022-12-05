@@ -48,7 +48,7 @@
 
 ### 🏗️ 서비스 구조
 
-![서비스 구조](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8404b39f-b178-4cda-92fe-c1ef7686390d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221124%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221124T013344Z&X-Amz-Expires=86400&X-Amz-Signature=240c8f33ca3728cf325d8277fec448a722b0dd77a7f50ef4fad05b0cea69b1ba&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
+![서비스 구조](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8404b39f-b178-4cda-92fe-c1ef7686390d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221205T212428Z&X-Amz-Expires=86400&X-Amz-Signature=ad0af2ac8fa6960edb69ab744786c9b2073eccf4899c7d3721c9f5661f1d55e2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject)
 
 ### 📂 파일 구조
 
